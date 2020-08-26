@@ -69,6 +69,10 @@
 			"title": "C-like",
 			"option": "default"
 		},
+		"lango": {
+			"title": "lango",
+			"owner": "hmenzagh"
+		},
 		"javascript": {
 			"title": "JavaScript",
 			"require": "clike",

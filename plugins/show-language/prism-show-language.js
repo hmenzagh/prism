@@ -20,6 +20,7 @@
 		"rss": "RSS",
 		"css": "CSS",
 		"clike": "C-like",
+		"lango": "lango",
 		"js": "JavaScript",
 		"abap": "ABAP",
 		"abnf": "ABNF",
